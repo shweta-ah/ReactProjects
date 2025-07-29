@@ -1,4 +1,4 @@
-import Component from "./assets/components/component";
+import Component from "./assets/components/Component";
 import { useState } from "react";
 
 function App() {
